@@ -1,0 +1,21 @@
+/* SOLO SE UTILIZA EN PRODUCCION*/
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.Titulo_1{
+    padding: 10px;
+    margin-left: 1100px;
+}
+.homer_img{
+    height: 100px;
+    width: 100px;
+    margin-left: 30px;
+}
+.Second_section img{
+    width: 500px;
+    height: 300px;
+}
